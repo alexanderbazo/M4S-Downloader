@@ -1,0 +1,8 @@
+# Ignore all
+*
+
+# Include only script, readme and license
+!m4s-downloader.sh
+!Readme.md
+!LICENSE
+!.gitignore
